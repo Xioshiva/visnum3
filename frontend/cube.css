@@ -1,0 +1,12 @@
+.divcanvas{
+    width: 50%;  
+    margin:0 auto;
+    margin-top: 80px;
+}
+
+#canvas{
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    display: block;
+}
